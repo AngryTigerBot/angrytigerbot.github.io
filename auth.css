@@ -28,6 +28,10 @@ body{
     text-align: center;
 }
 
+.redstar{
+    color: red;
+}
+
 .topText2{
     position: relative;
     color: rgb(156, 156, 156);
